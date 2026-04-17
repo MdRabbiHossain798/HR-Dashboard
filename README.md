@@ -94,7 +94,7 @@ The dataset used in this project contains structured HR data, including:
 
 ## 📷 Dashboard Preview
 
-*(Add screenshots of your Tableau dashboard here after uploading to GitHub)*
+*(https://github.com/MdRabbiHossain798/HR-Dashboard/blob/main/HR%20Dashboard.png)*
 
 ---
 
