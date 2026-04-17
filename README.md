@@ -117,8 +117,8 @@ The dataset used in this project contains structured HR data, including:
 
 ## 🧑‍💼 Author
 
-**[Your Name]**
-HR Analytics Enthusiast | Data Analyst
+**Md Rabbi Hossain**
+Business Analyst | Data Analyst
 
 ---
 
